@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Workspaces/New CD Machine.md",
+                "file": "05_Templates/Command_Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New CD Machine"
+              "title": "Command_Template"
             }
           }
         ]
@@ -191,20 +191,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7d41aa36b784887b",
   "lastOpenFiles": [
-    "01_LabProcedures/Cleavage.md",
-    "04_Workspaces/New CD Machine.md",
-    "04_Workspaces/Test.md",
-    "05_Templates/Technique_Template.md",
     "05_Templates/Chemical_Template.md",
-    "Properties.md",
-    "Untitled 1.base",
+    "05_Templates/Command_Template.md",
+    "Untitled.canvas",
+    "conflict-files-obsidian-git.md",
+    "05_Templates/Command_Template.md",
     "Untitled.base",
+    "Untitled 1.base",
+    "04_Workspaces/New CD Machine.md",
+    "06_Computational/Untitled.md",
+    "06_Computational/Bash Commands/cd.md",
+    "05_Templates/Technique_Template.md",
     "05_Templates/Workflow_Template.md",
+    "06_Computational/Bash Commands",
+    "06_Computational",
+    "Properties.md",
     "05_Templates"
   ]
 }
