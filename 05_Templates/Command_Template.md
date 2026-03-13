@@ -1,5 +1,7 @@
 # Usage
 
+`$>`
+
 ---
 # Description
 

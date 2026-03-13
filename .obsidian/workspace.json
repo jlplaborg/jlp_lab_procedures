@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Computational/Understanding Commands.md",
+                "file": "06_Computational/Commands/rm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Commands"
+              "title": "rm"
             }
           }
         ]
@@ -197,10 +197,20 @@
   },
   "active": "7d41aa36b784887b",
   "lastOpenFiles": [
+    "06_Computational/Commands/tail.md",
+    "06_Computational/Commands/rm.md",
+    "06_Computational/Commands/head.md",
+    "06_Computational/Commands/echo.md",
+    "06_Computational/Commands/cat.md",
     "06_Computational/Commands/cd.md",
+    "06_Computational/Commands/touch.md",
+    "06_Computational/Commands/pwd.md",
+    "06_Computational/Commands/mv.md",
+    "06_Computational/Commands/mkdir.md",
+    "06_Computational/Commands/cp.md",
     "06_Computational/Understanding Commands.md",
-    "06_Computational/Commands/desktop.ini",
     "05_Templates/Command_Template.md",
+    "06_Computational/Commands/desktop.ini",
     "06_Computational/Commands",
     "06_Computational",
     "05_Templates/Chemical_Template.md",
